@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run dev`
+
+Runs **npm start** and **npm run server** through _concurrently_ so you won't need 2 terminals opened at once
+
 ### `npm start`
 
 Runs the app in the development mode.\
